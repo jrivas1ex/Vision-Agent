@@ -1,0 +1,4 @@
+Pillow>=10.0
+
+# Solo necesario en la maquina Windows donde se compile el .exe:
+# pyinstaller>=6.0

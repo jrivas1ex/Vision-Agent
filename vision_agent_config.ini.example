@@ -1,0 +1,8 @@
+[VisionAgent]
+visionstation_folder = .
+output_root = VisionAgentData
+swatch_root = swatches
+capture_delay_ms = 50
+capture_mode = all
+visual_validation_layers = 1,2,3,4
+fabric_image_root = fabric_part_images
